@@ -2,7 +2,7 @@
 <h3 align="center">🎓 Passionate Computer Science Student | 🤖 AI Enthusiast | 💻 Developer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="AI Development GIF"/>
+  <img src="https://github.com/rafaballerini/rafaballerini/blob/main/src/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake Animation"/>
 </p>
 
 ---
@@ -59,7 +59,8 @@ Welcome to my GitHub profile! Feel free to explore my projects and contributions
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="220" alt="Working Coding GIF">
+  <img src="https://github-readme-stats.vercel.app/api?username=iyadkouloughli&show_icons=true&theme=radical" alt="GitHub Stats" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iyadkouloughli&theme=radical" alt="GitHub Streak" width="450"/>
 </p>
 
 <p align="center">
