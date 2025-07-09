@@ -59,7 +59,7 @@ Welcome to my GitHub profile! Feel free to explore my projects and contributions
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="220" alt="Working Coding GIF">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/working.gif" width="320" alt="Coding Working GIF">
 </p>
 
 <p align="center">
