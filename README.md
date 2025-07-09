@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **my projects or anything related to technology!**
 
-- 📫 How to reach me **iyadkdb@gmail.com**
+- 📫 How to reach me **📧 Email: iyadkdb@gmail.com | 📞 WhatsApp: +213674666735**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
