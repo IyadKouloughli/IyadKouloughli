@@ -62,8 +62,5 @@ Welcome to my GitHub profile! Feel free to explore my projects and contributions
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzR0b3FoMWFzbW4wM2U1YnQyMGxtem1lZXFpaWI3ZG03bDRqYThxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="320" alt="Developer Coding GIF">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iyadkouloughli&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views">
-</p>
 
 <p align="center">Thanks for visiting my profile! 🙌</p>
