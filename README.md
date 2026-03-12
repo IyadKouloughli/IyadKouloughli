@@ -1,66 +1,50 @@
-<h1 align="center">Hi there 👋, I'm Iyad Kouloughli</h1>
-<h3 align="center">🎓 Passionate Computer Science Student | 🤖 AI Enthusiast | 💻 Developer</h3>
+# Iyad Kouloughli
+## AI Engineer | Machine Learning | [cite_start]LLM & RAG Systems [cite: 3, 4]
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="AI Development GIF"/>
-</p>
+[cite_start]I am an AI Engineer with a professional background in Machine Learning, Deep Learning, and Agentic AI systems[cite: 8]. [cite_start]My expertise lies in designing and deploying end-to-end intelligent solutions, ranging from Retrieval-Augmented Generation (RAG) to complex time-series forecasting[cite: 8, 9, 31]. [cite_start]I am a published researcher in Springer Nature, focusing on the optimization of LSTM architectures for urban traffic flow[cite: 31, 38].
 
 ---
 
-## 👨‍💻 About Me
+## Professional Focus
 
-I'm a passionate Computer Science student specializing in **Artificial Intelligence and its applications**.  
-Welcome to my GitHub profile! Feel free to explore my projects and contributions.
-
-- 🔭 I’m currently working on implementing **AI agents in desktop applications**, such as my **ECG annotation and signal digitalization app**.
-- 🧠 I'm also exploring **fine-tuning LLM models** using medical-specific datasets.
-- 🌱 I’m currently learning about **LLMs**, including **Transformer architecture**, **semantic/hybrid/BM25 search**, and **intelligent AI agents**.
-- 👯 I’m looking to **collaborate on projects** related to **computer vision** and **data science**.
-- 💬 Ask me about **my projects** or anything related to **AI, ML, and development**!
+* [cite_start]**Generative AI and LLMs**: Experienced in fine-tuning models, prompt engineering, and building agentic AI platforms[cite: 8, 9, 19, 44].
+* [cite_start]**Medical AI**: Developed lightweight arrhythmia detection systems for AIoT and ECG digitalization desktop applications[cite: 18, 21].
+* [cite_start]**Optimization Research**: Published work on the ARDE algorithm for hyperparameter optimization in traffic flow forecasting[cite: 38, 39].
+* [cite_start]**Full-Stack Intelligence**: Technically versatile in integrating AI models into cross-platform applications using Node.js, React, React Native, and Electron[cite: 12, 46].
 
 ---
 
-## 🚀 Skills & Technologies
+## [cite_start]Technical Stack [cite: 12, 46]
 
-### 🖥️ Programming Languages
-- 🐍 Python
-- 💻 C/C++
-- ☕ Java
-- 🌐 HTML/CSS/JavaScript
-- 🐘 PHP
-- 📊 R
-- 🛢️ SQL
-- 📱 Dart / Android / Flutter
+### Artificial Intelligence and Data Science
+* [cite_start]**Frameworks**: TensorFlow, PyTorch, Keras, LangChain, LlamaIndex[cite: 46].
+* [cite_start]**Specializations**: NLP, Computer Vision, RAG, Time Series Forecasting, Model Evaluation[cite: 46].
+* [cite_start]**Tools**: MLflow, Vector Databases, SQL, SQLite, Data Analysis & Feature Engineering[cite: 46].
 
-### 📚 Frameworks & Libraries
-- 🔬 TensorFlow, 🔥 PyTorch, 🤖 Keras
-- 👀 OpenCV, 📝 NLTK, 🗣️ SpaCy
-- 📊 Scikit-learn, 🔢 NumPy, 📈 Pandas, 📉 Seaborn
-- 🧰 Tkinter, PyQt5 / PyQt6
-- 🛠️ Laravel (PHP), 🟢 Jade, 🏛️ MVC
-- 🧪 Electron, Docker
-
-### 💡 Concepts & Methodologies
-- 🧠 Machine Learning, 🤖 Deep Learning
-- 🎯 Computer Vision, 🗣️ NLP
-- 🧩 Problem Solving, 🏆 Optimization
-- ☁️ Cloud Computing, 🌎 IoT
-- 🏛️ Object-Oriented Programming (OOP)
-- 🤝 Multi-Agent Systems
-- 🛠️ Git / GitHub
+### Software Engineering
+* [cite_start]**Languages**: Python, C, C++, Java, PHP, JavaScript, SQL[cite: 46].
+* [cite_start]**Web and Mobile**: Node.js, React, React Native, Flutter, TailwindCSS, HTML/CSS[cite: 12, 46].
+* [cite_start]**Infrastructure**: Docker, Apache Kafka, REST API Development, Electron[cite: 46].
+* [cite_start]**DevOps**: GitHub and GitLab CI/CD workflows[cite: 13, 46].
 
 ---
 
-## 📫 Let's Connect!
+## Education and Certifications
 
-- 📧 **Email:** iyadkdb@gmail.com  
-- 📞 **WhatsApp:** [+213 674 666 735](https://wa.me/213674666735)
+* [cite_start]**Master’s in Artificial Intelligence and Its Applications**: University Abd Elhafid Boussouf[cite: 28, 29].
+* [cite_start]**Fundamentals of Deep Learning**: NVIDIA[cite: 10, 43].
+* [cite_start]**Prompt Engineering Certifications**: Simplilearn, Learn Prompting, and Coursera[cite: 10, 44].
 
 ---
 
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzR0b3FoMWFzbW4wM2U1YnQyMGxtem1lZXFpaWI3ZG03bDRqYThxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="320" alt="Developer Coding GIF">
-</p>
+## Selected Publications
 
+* [cite_start]**Constrained Mixed-ARDE for Optimizing LSTM Hyperparameters in Traffic Flow Forecasting**: Published in Springer Nature, July 2025[cite: 38].
 
-<p align="center">Thanks for visiting my profile! 🙌</p>
+---
+
+## Contact and Links
+
+* [cite_start]**LinkedIn**: [linkedin.com/in/iyad-kouloughli](https://www.linkedin.com/in/iyad-kouloughli-5126832b5/) [cite: 5]
+* [cite_start]**Email**: iyadkdb@gmail.com [cite: 2]
+* [cite_start]**Location**: Mila, Algeria [cite: 15, 29]
