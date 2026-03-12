@@ -53,26 +53,6 @@ Git • Docker • MLflow • Apache Kafka
 
 ---
 
-## Selected Work
-
-**AI Agent Systems**
-
-Designing intelligent agents capable of processing user requests, analyzing context, and triggering automated actions.
-
-**AI-generated Text Detection**
-
-Developed a system that detects whether a text is human-written or AI-generated using ensemble model evaluation.
-
-**ECG Digitalization and Annotation Tool**
-
-Built a desktop application for digitalizing ECG signals from paper recordings and annotating heartbeats for machine learning training.
-
-**Traffic Flow Forecasting**
-
-Developed LSTM-based models optimized with evolutionary algorithms for urban traffic prediction.
-
----
-
 ## Research
 
 Published research on hyperparameter optimization for LSTM traffic forecasting models.
