@@ -53,16 +53,6 @@ Git • Docker • MLflow • Apache Kafka
 
 ---
 
-## Research
-
-Published research on hyperparameter optimization for LSTM traffic forecasting models.
-
-Publication:  
-Constrained Mixed-ARDE for Optimizing LSTM Hyperparameters in Traffic Flow Forecasting  
-Springer Nature
-
----
-
 ## Contact
 
 Email: iyadkdb@gmail.com  
